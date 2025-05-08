@@ -1,0 +1,28 @@
+C:\Users\HP\Desktop\2025-1\PROGRAMACION DE SOFTWARE\JoyeriaDubai\JoyeriaDubai\obj\Debug\net8.0\JoyeriaDubai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\2025-1\PROGRAMACION DE SOFTWARE\JoyeriaDubai\JoyeriaDubai\obj\Debug\net8.0\JoyeriaDubai.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\2025-1\PROGRAMACION DE SOFTWARE\JoyeriaDubai\JoyeriaDubai\obj\Debug\net8.0\JoyeriaDubai.AssemblyInfo.cs
+C:\Users\HP\Desktop\2025-1\PROGRAMACION DE SOFTWARE\JoyeriaDubai\JoyeriaDubai\obj\Debug\net8.0\JoyeriaDubai.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\2025-1\PROGRAMACION DE SOFTWARE\JoyeriaDubai\JoyeriaDubai\bin\Debug\net8.0\JoyeriaDubai.exe
+C:\Users\HP\Desktop\2025-1\PROGRAMACION DE SOFTWARE\JoyeriaDubai\JoyeriaDubai\bin\Debug\net8.0\JoyeriaDubai.deps.json
+C:\Users\HP\Desktop\2025-1\PROGRAMACION DE SOFTWARE\JoyeriaDubai\JoyeriaDubai\bin\Debug\net8.0\JoyeriaDubai.runtimeconfig.json
+C:\Users\HP\Desktop\2025-1\PROGRAMACION DE SOFTWARE\JoyeriaDubai\JoyeriaDubai\bin\Debug\net8.0\JoyeriaDubai.dll
+C:\Users\HP\Desktop\2025-1\PROGRAMACION DE SOFTWARE\JoyeriaDubai\JoyeriaDubai\bin\Debug\net8.0\JoyeriaDubai.pdb
+C:\Users\HP\Desktop\2025-1\PROGRAMACION DE SOFTWARE\JoyeriaDubai\JoyeriaDubai\obj\Debug\net8.0\JoyeriaDubai.dll
+C:\Users\HP\Desktop\2025-1\PROGRAMACION DE SOFTWARE\JoyeriaDubai\JoyeriaDubai\obj\Debug\net8.0\refint\JoyeriaDubai.dll
+C:\Users\HP\Desktop\2025-1\PROGRAMACION DE SOFTWARE\JoyeriaDubai\JoyeriaDubai\obj\Debug\net8.0\JoyeriaDubai.pdb
+C:\Users\HP\Desktop\2025-1\PROGRAMACION DE SOFTWARE\JoyeriaDubai\JoyeriaDubai\obj\Debug\net8.0\JoyeriaDubai.genruntimeconfig.cache
+C:\Users\HP\Desktop\2025-1\PROGRAMACION DE SOFTWARE\JoyeriaDubai\JoyeriaDubai\obj\Debug\net8.0\ref\JoyeriaDubai.dll
+C:\Users\HP\Downloads\JoyeriaDubai\JoyeriaDubai\JoyeriaDubai\bin\Debug\net8.0\JoyeriaDubai.exe
+C:\Users\HP\Downloads\JoyeriaDubai\JoyeriaDubai\JoyeriaDubai\bin\Debug\net8.0\JoyeriaDubai.deps.json
+C:\Users\HP\Downloads\JoyeriaDubai\JoyeriaDubai\JoyeriaDubai\bin\Debug\net8.0\JoyeriaDubai.runtimeconfig.json
+C:\Users\HP\Downloads\JoyeriaDubai\JoyeriaDubai\JoyeriaDubai\bin\Debug\net8.0\JoyeriaDubai.dll
+C:\Users\HP\Downloads\JoyeriaDubai\JoyeriaDubai\JoyeriaDubai\bin\Debug\net8.0\JoyeriaDubai.pdb
+C:\Users\HP\Downloads\JoyeriaDubai\JoyeriaDubai\JoyeriaDubai\obj\Debug\net8.0\JoyeriaDubai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\JoyeriaDubai\JoyeriaDubai\JoyeriaDubai\obj\Debug\net8.0\JoyeriaDubai.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\JoyeriaDubai\JoyeriaDubai\JoyeriaDubai\obj\Debug\net8.0\JoyeriaDubai.AssemblyInfo.cs
+C:\Users\HP\Downloads\JoyeriaDubai\JoyeriaDubai\JoyeriaDubai\obj\Debug\net8.0\JoyeriaDubai.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\JoyeriaDubai\JoyeriaDubai\JoyeriaDubai\obj\Debug\net8.0\JoyeriaDubai.dll
+C:\Users\HP\Downloads\JoyeriaDubai\JoyeriaDubai\JoyeriaDubai\obj\Debug\net8.0\refint\JoyeriaDubai.dll
+C:\Users\HP\Downloads\JoyeriaDubai\JoyeriaDubai\JoyeriaDubai\obj\Debug\net8.0\JoyeriaDubai.pdb
+C:\Users\HP\Downloads\JoyeriaDubai\JoyeriaDubai\JoyeriaDubai\obj\Debug\net8.0\JoyeriaDubai.genruntimeconfig.cache
+C:\Users\HP\Downloads\JoyeriaDubai\JoyeriaDubai\JoyeriaDubai\obj\Debug\net8.0\ref\JoyeriaDubai.dll
